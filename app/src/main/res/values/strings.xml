@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MinesweeperLukeSupan</string>
+    <string name="play_minesweeper">Play Minesweeper!</string>
+    <string name="minesweeper_logo">Minesweeper logo</string>
+    <string name="click_to_reveal_a_square_hold_click_to_mark_a_cell_as_suspicious">Click to reveal a square, hold click to mark a cell as suspicious!</string>
+    <string name="minesweeper">MINESWEEPER</string>
+    <string name="start">START</string>
+    <string name="settings">SETTINGS</string>
+    <string name="number_of_rows">Number of Rows</string>
+    <string name="save">SAVE</string>
+    <string name="covered_color">Covered Color</string>
+    <string name="flagged_color">Flagged Color</string>
+    <string name="mine_color">Mine Color</string>
+    <string name="percent_of_mines">Percent of Mines</string>
+    <string name="uncovered_color">Uncovered Color</string>
+    <string name="number_of_cols">Number of Cols</string>
+    <string name="quit">QUIT</string>
+
+    <!-- Settings page arrays -->
+    <string-array name="row_column_options">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="mine_percentage_options">
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+    </string-array>
+
+    <!-- Color options -->
+    <string-array name="cell_color_options">
+        <item>Red</item>
+        <item>Gray</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Pink</item>
+    </string-array>
+
+
+</resources>
